@@ -1,7 +1,7 @@
 #ifndef MAP_DATA_H
 #define MAP_DATA_H
 
-typedef struct map_data
+typedef struct s_map_data
 {
     char **map;
     int cols;
